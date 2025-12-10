@@ -1,0 +1,5 @@
+{
+  "name": "AgroSense",
+  "description": "An AI-powered sustainable agriculture platform that analyzes soil parameters and weather conditions to suggest optimal crops, fertilizer usage, and yield estimates.",
+  "requestFramePermissions": []
+}
